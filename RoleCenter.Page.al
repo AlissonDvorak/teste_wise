@@ -7,7 +7,7 @@ page 50001 "Teste Wise Role Center"
     {
         area(RoleCenter)
         {
-            group(Group1)
+            group(WelcomeGroup)
             {
                 part(WelcomePart; "Bem Vindo")
                 {

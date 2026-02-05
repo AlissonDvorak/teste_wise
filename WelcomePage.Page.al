@@ -9,7 +9,7 @@ page 50000 "Bem Vindo"
     {
         area(Content)
         {
-            group(GroupName)
+            group(WelcomeContent)
             {
                 Caption = 'Bem Vindo ao Teste Wise';
                 
